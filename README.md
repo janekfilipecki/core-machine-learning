@@ -6,10 +6,10 @@ This repository contains files, notebooks, and code for the Intriduction to Arti
 
 # Assignment list
 
-- [Assignment 1](cw_1/): Basic search and optimization algorithms.
-- [Assignment 2](cw_2/): Evolutionary algorithms.
-- [Assignment 3](cw_3/): Two-player games, min-max and alpha-beta pruning.
-- [Assignment 4](cw_4/): Regression and classification.
-- [Assignment 5](cw_5/): Neural networks.
-- [Assignment 6](cw_6/): Reinforcement learning.
+- [Assignment 1](notebooks/cw_1.ipynb): Basic search and optimization algorithms.
+- [Assignment 2](notebooks/cw_2.ipynb): Evolutionary algorithms.
+- [Assignment 3](notebooks/cw_3.ipynb): Two-player games, min-max and alpha-beta pruning.
+- [Assignment 4](notebooks/cw_4.ipynb): Regression and classification.
+- [Assignment 5](notebooks/cw_5.ipynb): Neural networks.
+- [Assignment 6](notebooks/cw_6.ipynb): Reinforcement learning.
 
